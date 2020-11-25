@@ -7,7 +7,7 @@ export default function Home() {
     const interval = setInterval(async () => {
       const { data } = await fetch(`/functions/time.js`).then(res => res.json())
       setTime(new Date(data.time).toLocaleTimeString("en-US"))
-    }, 5000)
+    }, 1000)
 
     return () => {
       clearInterval(interval)
