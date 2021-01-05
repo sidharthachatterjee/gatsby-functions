@@ -5353,10 +5353,10 @@ gatsby-page-utils@^0.6.1:
     lodash "^4.17.20"
     micromatch "^4.0.2"
 
-gatsby-plugin-functions@^0.1.0-1:
-  version "0.1.0-1"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-functions/-/gatsby-plugin-functions-0.1.0-1.tgz#a4b8de3cab1bd585bb8ec6fd5fce5fea1d9d42aa"
-  integrity sha512-D4DG26583atBVz1cHAvh078kcvuxRfMjKFsPHJOTMVL2yD5iV+WZbrjJ/8JasdSM9c8y+B9ODHcn2/Hj99pqKQ==
+gatsby-plugin-functions@^0.1.0-2:
+  version "0.1.0-2"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-functions/-/gatsby-plugin-functions-0.1.0-2.tgz#9c0b36a6f7449118ceb6c5bb3f7679bf338b2b32"
+  integrity sha512-mXIwu0WBivArdxrD8f/QFmy1Jzu66kmZwzotNDr+446yY5wdxo090aGTgWqV7EPHEWm+lD3cq/DS7b7cpZ2DnA==
   dependencies:
     "@babel/core" "^7.12.8"
     "@babel/preset-env" "^7.12.7"
